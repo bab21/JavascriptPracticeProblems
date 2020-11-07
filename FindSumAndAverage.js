@@ -21,4 +21,3 @@ let areaInMeter=lengthInFeet*(feetToMeter)*breadthInFeet*(feetToMeter);
 let areaOf25Plots=25*areaInMeter;
 console.log("area of rectangle in meter is :"+areaInMeter);
 console.log("area of 25 such plots is "+areaOf25Plots);
-
